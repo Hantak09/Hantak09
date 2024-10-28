@@ -12,7 +12,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=python,c,rust,bash,pycharm,vscode,neovim,linux,ubuntu,kali,arch,github,git" />
+    <img src="https://skillicons.dev/icons?i=python,c,rust,bash,html,css,pycharm,vscode,neovim,linux,ubuntu,kali,arch,github,git" />
 </div>
 
 <br/><br/>
