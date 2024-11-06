@@ -9,16 +9,16 @@
 - :seedling: I’m currently learning **Rust**, **Assembly** and **Reverse Engineering**.
 - :zap: Trust me, I am a developer!
 ---
-<h1>🛠️ Languages </h1> 
+<h1>🛠️ Languages and Frameworks</h1> 
 <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=python,c,rust,bash,matlab,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,c,rust,bash,matlab,flask,postgresql,html,css" />
 </div>
 <br/>
 <h1>🛠️ Tools</h1> 
 <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i==pycharm,vscode,neovim,linux,ubuntu,kali,arch,github,git" />
+    <img src="https://skillicons.dev/icons?i=pycharm,vscode,neovim,linux,ubuntu,kali,arch,github,git" />
 </div>
 
 <br/><br/>
